@@ -46,3 +46,5 @@ CORRECTED EDITION NOTES
 - Piecewise linear force-time diagrams remain intentionally piecewise: they
   illustrate idealized constant-force and triangular-force situations.
 - Vector component labels in the interactive now use subscripts.
+
+NEW: resources/L41_Two_Page_Summary.pdf (2-page key points handout)
