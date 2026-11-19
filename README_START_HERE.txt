@@ -1,5 +1,5 @@
 AP PHYSICS 1 · UNIT 4: LINEAR MOMENTUM
-Front page + Lesson 4.1 teaching pack · November 2026
+Front page + Lesson 4.1 teaching pack · corrected edition · 18 November 2026
 Prepared for Pat Roby / ISZL
 
 GET STARTED
@@ -37,3 +37,12 @@ Topic 4.1: printed p. 80. Topics 4.2: printed pp. 81–82.
 
 Designed to open in modern Chrome, Edge or Firefox. No cloud account or external
 JavaScript library is necessary for the interactive lesson.
+
+CORRECTED EDITION NOTES
+- Mathematical indices and subscripts in the homepage, lesson, print resources
+  and presentation have been re-typeset at a proper lowered baseline.
+- The curved momentum-time graph in the presentation is now a smooth Bezier
+  curve (rather than joined straight segments).
+- Piecewise linear force-time diagrams remain intentionally piecewise: they
+  illustrate idealized constant-force and triangular-force situations.
+- Vector component labels in the interactive now use subscripts.
