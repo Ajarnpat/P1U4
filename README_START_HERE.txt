@@ -48,3 +48,16 @@ CORRECTED EDITION NOTES
 - Vector component labels in the interactive now use subscripts.
 
 NEW: resources/L41_Two_Page_Summary.pdf (2-page key points handout)
+
+TYPOGRAPHY CORRECTION (19 NOVEMBER 2026)
+--------------------------------------
+This build repairs browser-dependent square-box symbols in the Unit 4 HTML pages.
+- Vector arrows on the website are now drawn with CSS instead of an unreliable Unicode combining glyph.
+- Indices remain real HTML <sub>...</sub> rather than modifier/subscript Unicode characters.
+- The vector explorer's dynamically generated labels and the x/y axes have been corrected too.
+- The PDF and PowerPoint resources were inspected; their rendered mathematical notation was already correct and those files were retained.
+
+REPLACING AN EARLIER UPLOAD
+---------------------------
+Upload the CONTENTS of this AP1_U4_Linear_Momentum_Pack folder to the existing Unit 4 website folder, retaining the lesson-04-01 and resources subdirectories.
+In GitHub, commit the additions/replacements. If the website still shows squares, refresh the page without cache (Ctrl+Shift+R on Windows; Cmd+Shift+R on Mac) or try a private browser window.
