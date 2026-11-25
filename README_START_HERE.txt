@@ -1,39 +1,36 @@
-AP PHYSICS 1 — UNIT 4, LESSONS 4.1 AND 4.2
+AP PHYSICS 1 - UNIT 4 | LESSONS 4.1-4.3
+Revised 25 November 2026. Student-ready GitHub pack.
 
-Start at index.html. The unit index links to 4.1 and 4.2.
+START HERE
+Open index.html (the Unit 4 homepage) to access Lessons 4.1-4.3.
 
-GITHUB UPLOAD
-1. Extract the GitHub-ready ZIP.
+GITHUB UPLOAD (first upload)
+1. Extract this ZIP.
 2. Open AP1_U4_Linear_Momentum_Pack.
-3. Upload its CONTENTS into your EXISTING Unit 4 folder.
-4. Keep lesson-04-01, lesson-04-02 and resources folders intact.
-5. Replace index.html inside Unit 4 only. Do NOT overwrite the course's root index.html.
+3. Upload the CONTENTS of this folder into your Unit 4 directory, keeping the subfolders.
+4. Do not replace your repository's course-root index.html with this Unit 4 index.html.
 
-LESSON 4.2
-- Inquiry coach: lesson-04-02/index.html (8 CED knowledge checks; 8 MCQs; 5 FRQs)
-- Simulation: lesson-04-02/force-time-lab.html (prediction before force readouts)
-- 2-page notes: resources/L42_Two_Page_Summary.pdf
-- Student FRQs: resources/L42_Student_FRQ.pdf (3 original plasticine + 2 right-angle extensions)
-- STUDENT-ACCESSIBLE FRQ SOLUTIONS: resources/L42_FRQ_Worked_Solutions.pdf
-  Linked below the five FRQs on lesson-04-02/index.html and on the Unit 4 homepage.
-  Students are encouraged to attempt all questions before consulting the answers.
-- MC questions: resources/L42_MC_Questions.pdf
-- Visual slides: resources/L42_Visual_Slides.pptx and L42_Visual_Slides.pdf
-- Force graph: resources/L42_Plasticine_Force_Graph.png
+LESSON 4.3
+- Start with the learning coach at lesson-04-03/index.html.
+- 1D investigation: PhET Collision Lab and the shared class Google Sheet.
+- Students enter results in the Data Entry tab BEFORE opening the Totals tabs.
+- Masses 1-5 kg and signed velocities -5 to +5 m/s.
+- 10-minute reminder; students can leave earlier or continue longer.
+- Immediately after the 1D investigation are three written observations about total momentum, total kinetic energy, and centre-of-mass velocity, with individual answer reveals.
+- 2D investigation: PhET Collision Lab, followed by progress checks and practice.
+- Student work-through: resources/L43_Work_Through.pdf.
+- Worked answers, summary notes, visual slides (PPTX and PDF), and question PDFs are in resources/.
+- No custom car-crash or billiard-ball simulator is included.
 
-TEACHER MATERIALS
-The FRQ worked-solutions PDF is NOW included in the GitHub-ready ZIP,
-because students are intended to access it after attempting the questions.
-The multiple-choice answer key (L42_MC_Answers.pdf) is still excluded.
-The previously published 4.1 resources are preserved.
-The previously published 4.1 resources are preserved.
+LESSONS 4.1 AND 4.2
+The earlier interactive learning-coach material and resources remain included.
+The Lesson 4.2 FRQ worked solutions are linked for students to consult after attempting.
 
-CHECKS
-Mathematical subscripts in HTML use native <sub> tags, avoiding unsupported
-Unicode modifier glyphs. Equations in PDFs use positioned mathematical subscripts.
-Continuous graphs are smooth; intentionally piecewise graphs are physically justified.
-The impact-force graph is an illustrative reconstruction, not measured data.
+MATH NOTATION REVIEW
+The HTML lessons use properly formatted <sub>/<sup> tags and positioned vector annotations.
+The PDF and slide resources have been reviewed for malformed literal math subscripts;
+remaining flat-text math notation in the MCQs was corrected.
 
-
-LESSON 4.3 PhET revision, 24 Nov 2026:
-Uses PhET Collision Lab in a new browser tab. The teacher-designed 1D/2D collision animations are removed. lab-data.html and lab-data.js constitute ONLY a record/graph workspace. The PhET experiment itself requires internet access.
+NOTE
+Internet is required for PhET and the class Google Sheet. Ensure students have
+editing access to the sheet before using it for a class investigation.

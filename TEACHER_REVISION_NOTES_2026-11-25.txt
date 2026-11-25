@@ -1,0 +1,24 @@
+AP PHYSICS 1 UNIT 4 — TEACHER REVISION NOTES (25 NOV 2026)
+
+Revised teaching sequence for the Lesson 4.3 free-response answers.
+
+1. The Lesson 4.3 worked-solutions PDF has been rewritten for all four FRQs.
+   Every subpart begins with a principle or defining equation before substitutions,
+   numerical calculation and interpretation. Equations have proper PDF subscripts.
+2. The original handwritten car-lorry worked example supplied by Pat was read
+   and followed. In particular: the two vehicles experience equal and opposite
+   112,500 N average forces, yet the lighter 1200 kg car has three times the
+   acceleration magnitude of the 3600 kg lorry (93.75 vs 31.25 m/s^2).
+   Assuming both drivers move with their vehicles during the collision and
+   have approximately equal masses, the smaller-car driver experiences three
+   times the average net decelerating force.
+3. For the student question (FRQ 4e) in both the coach and the questions PDF,
+   the old requirement about injury prediction was intentionally replaced by
+   this intended AP idealised comparison. Real-world caveats appear only in an
+   explicitly optional side note in the teacher worked answers.
+4. The numerical values, earlier FRQs 1-3, MCQs and the PhET/Google Sheet
+   investigations are otherwise unchanged. In FRQ 3 the solutions explicitly
+   note that the given data do not uniquely determine final velocity vectors.
+5. The Lesson 4.3 worked-solutions PDF is linked from the online learning coach.
+
+For future AP FRQ model answers, use: Principle -> substitutions -> conclusion.

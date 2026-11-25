@@ -1,11 +1,27 @@
-AP Physics 1 Unit 4 · Lesson 4.3 · Shared Google Sheet version
+Lesson 4.3 · PhET and shared Google Sheet version · 25 November 2026
 
-Open lesson-04-03/index.html from the Unit 4 homepage.
-The 1D investigation now opens lab-guide.html, which links students to PhET Collision Lab and the shared class Google Sheet:
+Open index.html from the Unit 4 homepage.
+
+Investigation 1: PhET Collision Lab in 1D, plus shared class Google Sheet.
 https://docs.google.com/spreadsheets/d/1fEGuXRa1ePNMpNYE60CMVmbFFy8knf0MK0kr5Ae0CYM/edit?gid=0#gid=0
+Student inputs: masses 1-5 kg, signed velocities -5 to +5 m/s.
+Students enter their experimental data into the Data Entry tab before viewing the Totals tabs.
 
-Students must use the Data Entry tab before Totals. Masses 1–5 kg; signed velocities −5 to +5 m/s. The coach retains a 10-minute countdown, early return, and option to continue longer. No in-site data-entry table or plotting code remains.
+After the lab: three writing prompts with individual reveal answers, followed by
+fill-in conclusions and progress checks. Continue with the existing conservation
+reasoning, PhET 2D investigation, and practice.
 
-For the 2D investigation, students again open PhET Collision Lab. Links to all original print resources remain available. Internet connection and appropriate Google Sheet edit permissions are needed.
+The 10-minute countdown is advisory; students may return early or extend the investigation.
+There are no built-in physics animations or data-entry graphs in this version.
 
-When updating an existing GitHub Pages repository, DELETE obsolete lesson-04-03/lab-data.html and lesson-04-03/lab-data.js; replacing files alone does not delete old ones.
+Student work-through / PPTX / PDF resources are in ../resources.
+The sheet and PhET need internet, and student edit permission must be configured on the sheet.
+
+Revision 25 November 2026 — AP free-response guidance:
+- Rewritten L43_Worked_Solutions.pdf: every FRQ part starts with a principle/equation,
+  followed by signed substitutions, working and physical conclusion.
+- Car-lorry FRQ4(e) now centres the threefold acceleration and (under equal driver mass
+  and common vehicle/driver deceleration) threefold average net force on the car driver.
+- Real-world caveats are moved to a clearly optional teacher note, not the core answer.
+- Updated the FRQ4(e) wording in L43_MC_FRQ_Questions.pdf and the online coach.
+- All other student FRQ questions retained as before.
